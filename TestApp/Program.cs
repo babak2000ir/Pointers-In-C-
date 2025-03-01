@@ -18,7 +18,7 @@ class Program
         start = DateTime.Now;
         using (Bitmap image = new(inputPath))
         {
-            ConvertToGrayscaleSpan.ConvertToGrayscale(image);
+            ConvertToGrayscalePointer.ConvertToGrayscale(image);
             image.Save("Output-Pointer.jpg", System.Drawing.Imaging.ImageFormat.Jpeg);
         }
         end = DateTime.Now; 
