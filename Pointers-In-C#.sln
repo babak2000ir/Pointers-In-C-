@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertTpGrayScalePointer",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertToGrayScaleSpan", "ConvertToGrayScaleSpan\ConvertToGrayScaleSpan.csproj", "{03EE94A0-0D4E-4563-86D9-FDC15215AFF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{1178A4D7-C1AF-4931-8069-58C0873E8DF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{03EE94A0-0D4E-4563-86D9-FDC15215AFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03EE94A0-0D4E-4563-86D9-FDC15215AFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03EE94A0-0D4E-4563-86D9-FDC15215AFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1178A4D7-C1AF-4931-8069-58C0873E8DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1178A4D7-C1AF-4931-8069-58C0873E8DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1178A4D7-C1AF-4931-8069-58C0873E8DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1178A4D7-C1AF-4931-8069-58C0873E8DF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
